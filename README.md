@@ -1,4 +1,4 @@
-# awsglobalaccelerator
+# AWS Global Accelerator
 This repository contains instructions and blueprints for AWS Global Accelerator Workshop
 
 
