@@ -31,7 +31,7 @@ You can see all resources created by the CloudFormation stack in [AWS CloudForma
 
 ## Lab 1 - Creating Global Accelrator 
 
-[Lab1 - Create GA](Step by Step screenshots)(./Lab1_CreatingGA/Readme.md)
+[Lab1 - Create GA - Step by Step screenshots](./Lab1_CreatingGA/Readme.md)
 
 
 
