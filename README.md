@@ -11,14 +11,25 @@ The workshop demonstrates the usage of the following AWS services:
 * **Amazon ALB**: Loadbalance your application cross multiple AZ's within the region
 * **Amazon DynamoDB Global Tables**: the dynamic data will be stored in a DynamoDB global table, span acorss regions 
 * **Amazon Global Accelerator**: Improve global application availability and performance using the AWS global network
-* **AWS Lambda@**: the dynamic content generation and content customization will be driven by Lambda functions
+* **AWS Lambda**: the dynamic content generation and content customization will be driven by Lambda functions
 
 
 ## Lab 0 - Launch the Stack
 
+To start the workshop, launch the CloudFormation stack to bootstrap the resources in the US West (Oregon) Region.
+
+Click the launch stack button below to kick it off, accept all default values and wait for CloudFormation to complete the creation of the stack.
+
+If you need more detailed instructions please have a look at the screenshots in following link.
+
+Lab 0 - Launch the stack with steps screenshots
+
+The CloudFormation stack will create several AWS resources for this workshop, including EC2 instances and an ALB in the region you would like your applications running. 
+
 
 
 ## Lab 1 - Application with DynamoDB Global Tables 
+
 ## Lab 2 - Application with Multi-Player Game with UDP 
 ## Lab 3 - Application with DNS Hosting 
 
