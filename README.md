@@ -22,13 +22,18 @@ Click the launch stack button below to kick it off, accept all default values an
 
 If you need more detailed instructions please have a look at the screenshots in following link.
 
-Lab 0 - Launch the stack with steps screenshots
+[Lab 0 - Launch the stack with (steps screenshots)](./Lab0_LaunchTheStack/Readme.md)
 
-The CloudFormation stack will create several AWS resources for this workshop, including EC2 instances and an ALB in the region you would like your applications running. 
+The CloudFormation stack will create several AWS resources for this workshop, including EC2 instances, LaunchConfig, Security Groups for both instances and ALBs, ALB in the region you would like your applications running. 
+
+You can see all resources created by the CloudFormation stack in [AWS CloudFormation Console](https://console.aws.amazon.com/cloudformation/home?region=us-west-2).
+
+
+## Lab 1 - Creating Global Accelrator 
 
 
 
-## Lab 1 - Application with DynamoDB Global Tables 
+
 
 ## Lab 2 - Application with Multi-Player Game with UDP 
 ## Lab 3 - Application with DNS Hosting 
