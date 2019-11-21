@@ -4,7 +4,9 @@
 
 #### 1.1 Start
 
-[button]
+Region | Button
+------------ | -------------
+us-west-2 | [![Launch stack in us-east-1](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=ReInvent2019-GA-Workshop&templateURL=https://jtouzi.s3.amazonaws.com/reInvent2019.template)
 
 #### 1.2 Step "Select Template"
 
